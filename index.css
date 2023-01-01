@@ -1,0 +1,13 @@
+div{
+    width:700px;
+}
+img{
+    height: 400px;
+}
+body{
+    margin: auto;
+    width: 35%;
+    border: 3px solid rgb(0, 30, 128);
+    padding: 10px;
+    
+  }
